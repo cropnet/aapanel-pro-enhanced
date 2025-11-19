@@ -428,12 +428,6 @@ Stay curious. Stay ethical. Stay informed.
 
 ---
 
-**Repository**: https://github.com/schema-cx/aapanel-pro-enhanced  
-**Issues**: https://github.com/schema-cx/aapanel-pro-enhanced/issues  
-**Discussions**: https://github.com/schema-cx/aapanel-pro-enhanced/discussions  
-
----
-
 ## 🎭 For Developers & Curious Minds
 
 *If you're exploring the codebase and enjoy developer humor, check out:*
@@ -451,3 +445,4 @@ Stay curious. Stay ethical. Stay informed.
 Made with ☕, 🐍, and questionable life choices at 3 AM.
 
 *Last Updated: November 2024*
+
