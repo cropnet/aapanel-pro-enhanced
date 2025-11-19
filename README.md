@@ -444,5 +444,4 @@ Stay curious. Stay ethical. Stay informed.
 
 Made with ☕, 🐍, and questionable life choices at 3 AM.
 
-*Last Updated: November 2024*
 
