@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) 2024 Schema
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+IMPORTANT CLARIFICATION
+================================================================================
+
+This MIT License applies ONLY to the research documentation, installation
+scripts, and modification tools created by the schema project and
+contained within this repository.
+
+This license does NOT grant any rights to:
+- aaPanel software (proprietary software owned by BT.cn)
+- aaPanel's source code, binaries, or assets
+- Any copyrighted or trademarked materials of BT.cn
+- Third-party software distributed with aaPanel
+
+aaPanel is proprietary software subject to its own license terms.
+Users must comply with aaPanel's Terms of Service and licensing agreements.
+
+This project is for EDUCATIONAL AND RESEARCH PURPOSES ONLY.
+
+Users of this research project are responsible for:
+- Ensuring compliance with applicable laws and regulations
+- Respecting intellectual property rights
+- Using the research ethically and responsibly
+- Purchasing legitimate licenses for production use
+
+The Schema:
+- Is NOT affiliated with aaPanel or BT.cn
+- Does NOT endorse software piracy or license violations
+- Does NOT provide warranties or support for this research
+- Recommends purchasing official aaPanel PRO licenses
+
+By using this software, you agree to use it only for educational, research,
+and security testing purposes in non-production environments.
+
+================================================================================
