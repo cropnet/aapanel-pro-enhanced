@@ -1,0 +1,66 @@
+# Backups
+backups/
+*.backup
+*.backup_*
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Sensitive data
+*.key
+*.pem
+*.crt
+*.p12
+config.local.*
+.env.local
+
+# Test files
+test_*.py
+*_test.py
+
+# ============================================================================
+# 🎭 DEVELOPER NOTES
+# ============================================================================
+# The following files are tracked because they contain developer humor,
+# philosophy, and essential existential crisis management tools.
+# They're basically Easter eggs, but useful ones.
+# 
+# Included:
+# - .underground (poetry, mantras, coffee level matrix)
+# - .DEV_NOTES (the unfiltered developer commentary)
+#
+# Why track these?
+# 1. Future developers deserve to smile
+# 2. They're not secrets, they're culture
+# 3. Every repo needs a soul
+# 4. Someone took the time to write them at 3 AM
+#
+# "Code is poetry" - WordPress
+# "These files are proof" - Us
+# ============================================================================
